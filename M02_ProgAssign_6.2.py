@@ -7,7 +7,8 @@
 #
 #11/5/22
 #
-#Program Purpose: To print a descending list of integers, from 3 to 0, one at a time. 
+#Program Purpose: To iterate through a while loop until counter variable 'number' is equal to 'guess_me', then it prints a message and
+#exits the loop. 
 #
 #Variables: 
 #   
