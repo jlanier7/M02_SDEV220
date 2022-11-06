@@ -3,6 +3,8 @@
 
  Program Name: M02 Lab - GPA Status Calculator
 
+ GitHub Filepath: jlanier7/M02_SDEV220/M02_Lab.py
+
  Author: Josh Lanier 
 
  SDEV 220
